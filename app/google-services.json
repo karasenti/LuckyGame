@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367009141496",
+    "firebase_url": "https://luckygame-ff494.firebaseio.com",
+    "project_id": "luckygame-ff494",
+    "storage_bucket": "luckygame-ff494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367009141496:android:3ee7fd932847f187",
+        "android_client_info": {
+          "package_name": "com.example.user.luckygameproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367009141496-t176rhjstcs52em3ltjegrbienqr5c56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.luckygameproj",
+            "certificate_hash": "B3DDD741580F7CC21ABE6C10CB05CF1927248796"
+          }
+        },
+        {
+          "client_id": "367009141496-6gruqqonj3btj8tob766soi6sb1b1vjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavtqi89KK3dVwVaIYZ3hhUw0y7vOjR7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367009141496-6gruqqonj3btj8tob766soi6sb1b1vjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
